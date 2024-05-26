@@ -1,0 +1,155 @@
+11:59:20.582 [main] INFO  com.inetbanking.testCases.TC001_loginTest - URL is opened
+11:59:20.934 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Username
+11:59:21.054 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Password
+11:59:22.424 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Login test passes
+13:27:59.307 [main] INFO  com.inetbanking.testCases.TC001_loginTest - URL is opened
+13:27:59.465 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Username
+13:27:59.556 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Password
+13:28:00.888 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Login test passes
+15:00:07.231 [main] INFO  com.inetbanking.testCases.TC001_loginTest - URL is opened
+15:00:07.452 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Username
+15:00:07.535 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Password
+15:00:09.014 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Login test passes
+15:35:05.285 [main] INFO  com.inetbanking.testCases.TC001_loginTest - URL is opened
+15:35:05.425 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Username
+15:35:05.520 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Password
+15:35:11.166 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Login test passes
+15:29:22.113 [main] INFO  com.inetbanking.testCases.TC001_loginTest - URL is opened
+15:29:22.417 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Username
+15:29:22.542 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Password
+11:39:22.219 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:22.231 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:23.525 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:23.529 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:23.588 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:23.591 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:23.668 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:23.673 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:23.726 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:23.729 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:23.783 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:23.786 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:23.848 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:23.851 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:23.894 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:23.896 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:23.932 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:23.935 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:23.981 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:23.984 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:24.034 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:24.036 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:24.077 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:39:24.079 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:39:24.135 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - URL is opened
+11:39:24.374 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Entered Username
+11:39:24.488 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Entered Password
+11:39:38.778 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Login passed
+11:39:48.876 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - URL is opened
+11:39:58.993 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - URL is opened
+11:40:09.077 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - URL is opened
+11:40:09.372 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - URL is opened
+11:40:56.061 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:56.069 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:40:57.053 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:57.055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:40:57.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:57.124 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:40:57.193 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:57.196 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:40:57.252 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:57.254 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:40:57.300 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:57.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:40:57.353 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:57.355 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:40:57.402 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:57.403 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:40:57.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:57.444 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:40:57.497 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:57.500 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:40:57.538 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:57.540 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:40:57.594 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:57.596 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:40:57.666 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - URL is opened
+11:40:57.880 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Entered Username
+11:40:57.986 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Entered Password
+11:41:00.459 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Login passed
+11:41:02.533 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - URL is opened
+11:41:02.757 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Entered Username
+11:41:02.987 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Entered Password
+11:41:04.484 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - URL is opened
+11:41:04.601 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Entered Username
+11:41:04.741 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Entered Password
+11:41:05.992 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Login passed
+11:41:07.958 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - URL is opened
+11:41:08.285 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Entered Username
+11:41:08.439 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Entered Password
+11:41:10.247 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - URL is opened
+11:41:10.612 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Entered Username
+11:41:10.764 [main] INFO  com.inetbanking.testCases.TC001_loginDDT - Entered Password
+13:45:46.008 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - User name is provided
+13:45:46.144 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - Passsword is provided
+13:45:50.928 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - providing customer details....
+13:46:07.142 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - validation started....
+13:50:37.400 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - User name is provided
+13:50:37.540 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - Passsword is provided
+13:50:42.238 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - providing customer details....
+13:50:56.204 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - validation started....
+13:50:56.266 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - test case passed....
+11:05:33.656 [main] INFO  com.inetbanking.testCases.TC001_loginTest - URL is opened
+11:05:33.890 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Username
+11:05:34.302 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Password
+11:05:35.644 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Login test passes
+11:05:42.362 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - User name is provided
+11:05:42.502 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - Passsword is provided
+11:05:47.289 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - providing customer details....
+11:06:00.351 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - validation started....
+11:06:00.395 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - test case passed....
+12:02:41.728 [main] INFO  com.inetbanking.testCases.TC001_loginTest - URL is opened
+12:02:41.885 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Username
+12:02:41.982 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Password
+12:02:43.176 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Login test passes
+12:02:48.877 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - User name is provided
+12:02:48.963 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - Passsword is provided
+12:02:53.485 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - providing customer details....
+12:03:04.077 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - validation started....
+12:03:04.091 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - test case passed....
+12:54:18.509 [main] INFO  com.inetbanking.testCases.TC001_loginTest - URL is opened
+12:54:18.641 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Username
+12:54:18.730 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Password
+12:54:19.794 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Login test passes
+12:54:25.444 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - User name is provided
+12:54:25.530 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - Passsword is provided
+12:54:30.089 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - providing customer details....
+12:54:41.801 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - validation started....
+12:54:41.845 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - test case passed....
+12:55:03.708 [main] INFO  com.inetbanking.testCases.TC001_loginTest - URL is opened
+12:55:03.840 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Username
+12:55:03.934 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Password
+12:55:04.994 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Login test passes
+12:55:09.994 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - User name is provided
+12:55:10.112 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - Passsword is provided
+12:55:14.551 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - providing customer details....
+12:55:25.832 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - validation started....
+12:55:25.889 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - test case passed....
+12:56:08.141 [main] INFO  com.inetbanking.testCases.TC001_loginTest - URL is opened
+12:56:08.278 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Username
+12:56:08.372 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Password
+12:56:10.274 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Login test passes
+12:56:16.538 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - User name is provided
+12:56:16.706 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - Passsword is provided
+12:56:21.041 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - providing customer details....
+12:56:34.985 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - validation started....
+12:56:34.997 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - test case passed....
+17:31:23.978 [main] INFO  com.inetbanking.testCases.TC001_loginTest - URL is opened
+17:31:24.247 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Username
+17:31:24.364 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Entered Password
+17:31:26.048 [main] INFO  com.inetbanking.testCases.TC001_loginTest - Login test passes
+17:31:33.304 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - User name is provided
+17:31:33.412 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - Passsword is provided
+17:31:38.759 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - providing customer details....
+17:31:52.306 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - validation started....
+17:31:52.350 [main] INFO  com.inetbanking.testCases.TC002_addCustomer - test case passed....

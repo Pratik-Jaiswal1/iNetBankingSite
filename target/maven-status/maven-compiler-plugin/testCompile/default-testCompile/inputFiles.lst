@@ -1,0 +1,10 @@
+C:\Users\prati\eclipse-workspace\InetBankingAutomation\src\test\java\com\inetbanking\baseClass\baseClass.java
+C:\Users\prati\eclipse-workspace\InetBankingAutomation\src\test\java\com\inetbanking\pageObjects\addCustomerPage.java
+C:\Users\prati\eclipse-workspace\InetBankingAutomation\src\test\java\com\inetbanking\pageObjects\loginPage.java
+C:\Users\prati\eclipse-workspace\InetBankingAutomation\src\test\java\com\inetbanking\testCases\TC001_loginDDT.java
+C:\Users\prati\eclipse-workspace\InetBankingAutomation\src\test\java\com\inetbanking\testCases\TC001_loginTest.java
+C:\Users\prati\eclipse-workspace\InetBankingAutomation\src\test\java\com\inetbanking\testCases\TC002_addCustomer.java
+C:\Users\prati\eclipse-workspace\InetBankingAutomation\src\test\java\com\inetbanking\utilities\dataProvider.java
+C:\Users\prati\eclipse-workspace\InetBankingAutomation\src\test\java\com\inetbanking\utilities\ExtentReportManager.java
+C:\Users\prati\eclipse-workspace\InetBankingAutomation\src\test\java\com\inetbanking\utilities\readConfig.java
+C:\Users\prati\eclipse-workspace\InetBankingAutomation\src\test\java\com\inetbanking\utilities\XLUtility.java
